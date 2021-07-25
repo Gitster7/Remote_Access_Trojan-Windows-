@@ -1,0 +1,5 @@
+colorama
+PTable
+pyreadline
+backports.pbkdf2
+readline
